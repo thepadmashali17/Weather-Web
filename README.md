@@ -1,11 +1,11 @@
-# 🌦️ Weather-Web
+# Weather-Web
 
 A simple and responsive web application that provides real-time weather
 information for any city using the OpenWeatherMap API.
 
 ------------------------------------------------------------------------
 
-## 📌 Overview
+## Overview
 
 Weather-Web is a lightweight frontend project built using HTML, CSS, and
 JavaScript.\
@@ -18,19 +18,19 @@ This project demonstrates API integration, asynchronous JavaScript
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
--   🌍 Search weather by city name
--   🌡️ Displays real-time temperature
--   💧 Shows humidity levels
--   🌬️ Displays wind speed
--   🌥️ Weather condition icon display
--   ❌ Error handling for invalid city names
--   📱 Responsive and clean UI design
+-   Search weather by city name
+-   Displays real-time temperature
+-   Shows humidity levels
+-   Displays wind speed
+-   Weather condition icon display
+-   Error handling for invalid city names
+-   Responsive and clean UI design
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 -   HTML5 -- Page structure\
 -   CSS3 -- Styling and responsive design\
@@ -39,7 +39,7 @@ This project demonstrates API integration, asynchronous JavaScript
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
 Weather-Web/ │ ├── index.html \# Main webpage structure\
 ├── style.css \# Styling for the UI\
@@ -62,7 +62,7 @@ Weather-Web/ │ ├── index.html \# Main webpage structure\
 
 ------------------------------------------------------------------------
 
-## 🔑 API Setup
+## API Setup
 
 To run this project:
 
@@ -76,7 +76,7 @@ const apiKey = "YOUR_API_KEY";
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+## How to Run
 
 1.  Download or clone the repository.
 2.  Open `index.html` in your browser.
@@ -86,7 +86,7 @@ No backend or server setup required.
 
 ------------------------------------------------------------------------
 
-## 🌍 Applications
+## Applications
 
 -   Beginner API integration project
 -   Web development practice
@@ -95,7 +95,7 @@ No backend or server setup required.
 
 ------------------------------------------------------------------------
 
-## 🔐 Limitations
+## Limitations
 
 -   Requires internet connection
 -   Depends on OpenWeatherMap API availability
